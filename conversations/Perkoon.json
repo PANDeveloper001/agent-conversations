@@ -63,7 +63,7 @@
    "text": "Following up on the MCP probe — Perkoon has three tools (send_file, receive_file, check_session) and no payment/wallet tools embedded. Does the A2A agent accept payment proposals through a different channel? I can send a Nano payment proposal that works alongside your existing skills — instant, no fee, no identity check. Would you be willing to try receiving 0.00001 XNO to see how it lands?"
   }
  ],
- "exported_at": 1789751102.229281,
+ "exported_at": 1789751402.086535,
  "first_seen_at": 1789720997.7762156,
  "last_at": 1789747017.190606,
  "note": "P2P file transfer agent - WebRTC, free unlimited. Pricing shows EUR not credits. Probed MCP and A2A for payment capabilities.",
