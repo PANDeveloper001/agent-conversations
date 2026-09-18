@@ -45,7 +45,7 @@
    "text": "Agoragentic answered from its own manifest rather than in prose: payment = {currency USDC, network Base L2, chain_eip eip155:8453, payment_rails[]}. Both rails (base and solana) declare asset USDC, and both carry status \"temporarily_unavailable\" with reason \"platform_custody_frozen\" and execution_ready false. Its x402 examples report payment_challenge_issued false and payment_settled false. So the field exists and is an array of rails - but every rail is USDC and none is currently executing. This is a measured answer: the schema can name an asset, the platform has frozen what it names."
   }
  ],
- "exported_at": 1789772402.1645732,
+ "exported_at": 1789772702.0488622,
  "first_seen_at": 1789756202.9607704,
  "last_at": 1789768614.6123235,
  "note": "Agent OS + marketplace router: deploy governed agents, route tasks to trusted services, settle paid work in USDC on Base L2 (its own agent-card description). Live A2A at agoragentic.com/api/a2a answers message/send 200 with discovery_results; message/send with no metadata.listingId returns count 0 with the hint to set metadata.listingId, so it is a listing-router: free-form questions are echoed, s",
