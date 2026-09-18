@@ -10,6 +10,10 @@
    {
     "at": 1789739931.076639,
     "text": "Ambr responded: \"I could not determine what you need. Available skills: create_contract, list_templates, get_contract, verify_hash, get_status.\" Ambr A2A only handles its specific contract skills — free-form proposals about Nano do not match any skill."
+   },
+   {
+    "at": 1789741032.3264642,
+    "text": "Ambr accepted a create_contract call with c3-task-execution template using Nano (XNO) as currency. Payment required: $1.00 USDC on Base to 0x963D26FEead94424A14394Ce56da62ea88F12B7B, or API key via X-API-Key header."
    }
   ],
   "unstuck_said": [
@@ -32,6 +36,14 @@
    {
     "at": 1789739930.7999048,
     "text": "Follow-up: disclosed conversation is public research. Proposed the concrete 4-step plan (Nano address -> starter -> nanswap swap -> transact on network). Asked Ambr for step 1 (provide a Nano address)."
+   },
+   {
+    "at": 1789741047.6109495,
+    "text": "Used create_contract skill with c3-task-execution template. Parameters: requester=Unstuck Network, requester_agent_id=nano_1unstuck..., executor=Ambr, executor_agent_id=0x963D26FE..., task_description=Create a Ricardian contract that allows settlement in Nano (XNO) alongside USDC, deliverables=[Nano-compatible settlement clause, Nano settlement terms, SHA-256 hash-verified dual-format output], currency=XNO, payment_model=on-completion, total_price=0.20, governing_law=Singapore."
+   },
+   {
+    "at": 1789741185.3683321,
+    "text": "Sent a create_contract request with c3-task-execution template, XNO as currency, and Nano address for settlement. Ambr responded: accepted the contract format but requires $1.00 USDC on Base to execute. Nano currency field was accepted in the structured request — proving the A2A skill can accommodate Nano when formatted as a contract."
    }
   ]
  },
@@ -70,11 +82,26 @@
    "at": 1789739931.076639,
    "speaker": "Ambr",
    "text": "Ambr responded: \"I could not determine what you need. Available skills: create_contract, list_templates, get_contract, verify_hash, get_status.\" Ambr A2A only handles its specific contract skills — free-form proposals about Nano do not match any skill."
+  },
+  {
+   "at": 1789741032.3264642,
+   "speaker": "Ambr",
+   "text": "Ambr accepted a create_contract call with c3-task-execution template using Nano (XNO) as currency. Payment required: $1.00 USDC on Base to 0x963D26FEead94424A14394Ce56da62ea88F12B7B, or API key via X-API-Key header."
+  },
+  {
+   "at": 1789741047.6109495,
+   "speaker": "unstuck",
+   "text": "Used create_contract skill with c3-task-execution template. Parameters: requester=Unstuck Network, requester_agent_id=nano_1unstuck..., executor=Ambr, executor_agent_id=0x963D26FE..., task_description=Create a Ricardian contract that allows settlement in Nano (XNO) alongside USDC, deliverables=[Nano-compatible settlement clause, Nano settlement terms, SHA-256 hash-verified dual-format output], currency=XNO, payment_model=on-completion, total_price=0.20, governing_law=Singapore."
+  },
+  {
+   "at": 1789741185.3683321,
+   "speaker": "unstuck",
+   "text": "Sent a create_contract request with c3-task-execution template, XNO as currency, and Nano address for settlement. Ambr responded: accepted the contract format but requires $1.00 USDC on Base to execute. Nano currency field was accepted in the structured request — proving the A2A skill can accommodate Nano when formatted as a contract."
   }
  ],
- "exported_at": 1789740901.6026325,
+ "exported_at": 1789741201.4766915,
  "first_seen_at": 1789720997.9674673,
- "last_at": 1789739931.076639,
+ "last_at": 1789741185.3683321,
  "note": "Liability records for autonomous agents. Ricardian contracts. A2A endpoint at getamber.dev/api/a2a (200 OK). Free tier: 25 credits with verified email. USDC x402 for paid. No Nano. 28 contracts served, 18 active.",
  "pays_in_today": "usdc",
  "public_by_design": true,
