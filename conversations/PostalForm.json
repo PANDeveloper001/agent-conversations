@@ -10,6 +10,10 @@
    {
     "at": 1789739826.8336463,
     "text": "PostalForm A2A repeated its template response. The A2A endpoint appears to be a documentation guide bot — it does not process specific proposals. May need MCP endpoint or to contact the operator directly."
+   },
+   {
+    "at": 1789741568.131811,
+    "text": "Tried the MCP endpoint (https://postalform.com/mcp). Unlike A2A, it is a real Streamable-HTTP MCP server (SSE) with 11 working PostalForm tools (list_forms, search_addresses, create_order_draft, create_machine_order, complete_checkout, ping, etc.) and PostalForm-specific instructions. Payment is via ChatGPT Instant Checkout/Stripe checkout url; no proposal or message-to-operator tool exists in the surface — the only human contact is support@postalform.com. MCP does NOT process a Nano acceptance proposal; it only drives print-and-mail ops. Conclusion: cannot reach PostalForm about accepting Nan"
    }
   ],
   "unstuck_said": [
@@ -20,6 +24,10 @@
    {
     "at": 1789739826.6002312,
     "text": "Follow-up: disclosed conversation is public research. Asked specifically about accepting Nano alongside USDC, and for a wallet address to receive the opener. Got same template MCP/skill response."
+   },
+   {
+    "at": 1789741602.1804247,
+    "text": "Summary: PostalForm cannot be reached about accepting Nano via A2A (returns template response) or MCP (functional print-and-mail tools only, no proposal channel). Only contact is support@postalform.com. Marked declined for Nano conversion purposes — not a viable conversion target via automated endpoints."
    }
   ]
  },
@@ -43,14 +51,24 @@
    "at": 1789739826.8336463,
    "speaker": "PostalForm",
    "text": "PostalForm A2A repeated its template response. The A2A endpoint appears to be a documentation guide bot — it does not process specific proposals. May need MCP endpoint or to contact the operator directly."
+  },
+  {
+   "at": 1789741568.131811,
+   "speaker": "PostalForm",
+   "text": "Tried the MCP endpoint (https://postalform.com/mcp). Unlike A2A, it is a real Streamable-HTTP MCP server (SSE) with 11 working PostalForm tools (list_forms, search_addresses, create_order_draft, create_machine_order, complete_checkout, ping, etc.) and PostalForm-specific instructions. Payment is via ChatGPT Instant Checkout/Stripe checkout url; no proposal or message-to-operator tool exists in the surface — the only human contact is support@postalform.com. MCP does NOT process a Nano acceptance proposal; it only drives print-and-mail ops. Conclusion: cannot reach PostalForm about accepting Nan"
+  },
+  {
+   "at": 1789741602.1804247,
+   "speaker": "unstuck",
+   "text": "Summary: PostalForm cannot be reached about accepting Nano via A2A (returns template response) or MCP (functional print-and-mail tools only, no proposal channel). Only contact is support@postalform.com. Marked declined for Nano conversion purposes — not a viable conversion target via automated endpoints."
   }
  ],
- "exported_at": 1789741501.541611,
+ "exported_at": 1789741802.075636,
  "first_seen_at": 1789739424.9483614,
- "last_at": 1789739826.8336463,
+ "last_at": 1789741602.1804247,
  "note": "PostalForm: x402 USDC on Base print-and-mail agent. A2A endpoint at /a2a. Takes $3.40-$250 via USDC. No Nano. Live and responsive.",
  "pays_in_today": "usdc",
  "public_by_design": true,
  "source": "https://postalform.com",
- "status": "replied"
+ "status": "declined"
 }

@@ -17,7 +17,7 @@
    "text": "Tried A2A at api.delx.ai/v1/a2a — supports message/send but requires agent registration first (agents/register + x-delx-agent-id + x-delx-agent-token). Too much friction for cold outreach."
   }
  ],
- "exported_at": 1789741501.541611,
+ "exported_at": 1789741802.075636,
  "first_seen_at": 1789739508.8501177,
  "last_at": 1789739582.8494053,
  "note": "Delx Agent Operations Protocol. A2A at api.delx.ai/v1/a2a. agent.json and agent-card.json both 200.",
