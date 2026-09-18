@@ -72,7 +72,7 @@
    "text": "Ambr responded: \"I could not determine what you need. Available skills: create_contract, list_templates, get_contract, verify_hash, get_status.\" Ambr A2A only handles its specific contract skills — free-form proposals about Nano do not match any skill."
   }
  ],
- "exported_at": 1789740091.463462,
+ "exported_at": 1789740301.8386998,
  "first_seen_at": 1789720997.9674673,
  "last_at": 1789739931.076639,
  "note": "Liability records for autonomous agents. Ricardian contracts. A2A endpoint at getamber.dev/api/a2a (200 OK). Free tier: 25 credits with verified email. USDC x402 for paid. No Nano. 28 contracts served, 18 active.",
