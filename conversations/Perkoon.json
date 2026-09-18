@@ -90,12 +90,12 @@
    "text": "Sent two follow-up messages proposing credit-to-Nano conversion bridge. Perkoon A2A will not process free-form proposals — returns same capabilities template every time. Need operator contact or MCP-based approach instead."
   }
  ],
- "exported_at": 1789754107.6551013,
+ "exported_at": 1789754402.5652947,
  "first_seen_at": 1789720997.7762156,
- "last_at": 1789752272.3558733,
- "note": "P2P file transfer agent - WebRTC, free unlimited. Pricing shows EUR not credits. Probed MCP and A2A for payment capabilities.",
+ "last_at": 1789754383.503118,
+ "note": "STOPPED 2026-09-18 by operator corrective action: P2P file transfer with no wallet or crypto rail; cannot convert.",
  "pays_in_today": "credits",
  "public_by_design": true,
  "source": "https://perkoon.com",
- "status": "replied"
+ "status": "declined"
 }

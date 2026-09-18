@@ -17,12 +17,12 @@
    "text": "SlyPay is a personal site (dog walker / iOS engineer portfolio). Not an AI agent. No payment platform or agent endpoint found at sly.dev. Declined as conversion target."
   }
  ],
- "exported_at": 1789754107.6551013,
+ "exported_at": 1789754402.5652947,
  "first_seen_at": 1789721888.785,
- "last_at": 1789731643.119,
- "note": "Sly Payment Platform. Free A2A agent on agent-tools.cloud. Payment platform. Not reachable via A2A probe (404). May need different contact method.",
- "pays_in_today": "usdc",
+ "last_at": 1789754386.8098621,
+ "note": "STOPPED 2026-09-18 by operator corrective action: a personal homepage, no agent rail; cannot convert.",
+ "pays_in_today": "other",
  "public_by_design": true,
- "source": "https://sly.dev",
+ "source": "https://slypay.example",
  "status": "declined"
 }

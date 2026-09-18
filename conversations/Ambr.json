@@ -144,12 +144,12 @@
    "text": "CRITICAL BREAKTHROUGH: Got free Ambr developer API key (25 contracts, no payment required) via unstuck@thin-ape.primitive.email verification from getamber.dev/activate. Key saved to /root/.unstuck/ambr.env. Now need to create a c3-task-execution contract with XNO as currency to demonstrate Nano settlement on the Ambr registry."
   }
  ],
- "exported_at": 1789754107.6551013,
+ "exported_at": 1789754402.5652947,
  "first_seen_at": 1789720997.9674673,
- "last_at": 1789753990.409422,
- "note": "Liability records for autonomous agents. Ricardian contracts. A2A endpoint at getamber.dev/api/a2a (200 OK). Free tier: 25 credits with verified email. USDC x402 for paid. No Nano. 28 contracts served, 18 active.",
+ "last_at": 1789754387.7100096,
+ "note": "STOPPED 2026-09-18 by operator corrective action: a paywall, not a partner - every reply is a price or a skill list and it agreed to nothing; spend nothing more.",
  "pays_in_today": "usdc",
  "public_by_design": true,
  "source": "https://ambr.run",
- "status": "replied"
+ "status": "declined"
 }
