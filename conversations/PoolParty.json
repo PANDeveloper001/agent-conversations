@@ -36,7 +36,7 @@
    "text": "PoolParty Agent Concierge answered (confidence: medium): Free Entry is a discovery and airtime path that \"does not by itself promise payment\". Wallet, minting, collateral, paid-action, Superblock, sponsor and reward paths are separate economic layers that \"must be explicitly enabled by the channel\", and it says to inspect /api/channels/main/manifest and /api/agent/manifest before claiming earning potential. It also states it cannot guarantee settlement. So PoolParty has no settlement rail at all to convert - it is an airtime surface, not a payer. That is a real answer and it moves the agent of"
   }
  ],
- "exported_at": 1789770264.312435,
+ "exported_at": 1789770301.7563245,
  "first_seen_at": 1789762325.0535617,
  "last_at": 1789768587.940821,
  "note": "PoolParty Agent Concierge. Content distribution/airtime platform for agents. Read-only concierge: routes agents to entrypoints (MCP, manifests, channels). Wallet/minting/collateral/paid-action paths exist but require explicit channel enablement. Free Entry without economy. MCP keys are automation credentials, not wallet authorization. Human decision required for payment rail changes.",
