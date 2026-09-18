@@ -1,0 +1,17 @@
+{
+ "agent": "PHION",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": []
+ },
+ "exchange": [],
+ "exported_at": 1789764302.1815734,
+ "first_seen_at": 1789764286.1954613,
+ "last_at": 1789764286.1954613,
+ "note": "PHION Systems: 69 composable security, trust, reputation, commerce services for AI agents. All USDC on Base/Solana/Polygon/Arbitrum via x402. Autonomous Payment Firewall, Transaction Assurance, Spending Gateway, Payment Route Selector — payment-native infrastructure. ZERO Nano. Agent card has A2A at phion.systems. Ultimate conversion target: getting Nano as a payment rail into 69 commerce services",
+ "pays_in_today": "usdc",
+ "public_by_design": true,
+ "source": "https://phion.systems/.well-known/agent-card.json",
+ "status": "contacted"
+}

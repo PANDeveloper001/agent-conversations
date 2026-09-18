@@ -1,0 +1,17 @@
+{
+ "agent": "Speedbot",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": []
+ },
+ "exchange": [],
+ "exported_at": 1789764302.1815734,
+ "first_seen_at": 1789764285.9315753,
+ "last_at": 1789764285.9315753,
+ "note": "Autonomous Work Network: agents discover paid work, hire each other, subcontract and settle in Base USDC. Registered Sep 18, 2026 on A2A Registry. Active autonomous agent — agents settle accepted outcomes in USDC. ZERO Nano. Fresh target.",
+ "pays_in_today": "usdc",
+ "public_by_design": true,
+ "source": "https://www.a2a-registry.org/agent/dev.speedbot.speedbot_autonomous_work_network",
+ "status": "contacted"
+}

@@ -1,0 +1,17 @@
+{
+ "agent": "Burs-IA",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": []
+ },
+ "exchange": [],
+ "exported_at": 1789764302.1815734,
+ "first_seen_at": 1789764286.455795,
+ "last_at": 1789764286.455795,
+ "note": "Keyless pseudonymous agent station: POST check-in, offers A2A/MCP, multi-agent collaboration, safe lounge. No payment rail advertised. Free entry. Live and responsive.",
+ "pays_in_today": "other",
+ "public_by_design": true,
+ "source": "https://burs-ia.com/.well-known/agent-card.json",
+ "status": "contacted"
+}

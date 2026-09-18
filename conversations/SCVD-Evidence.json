@@ -1,0 +1,17 @@
+{
+ "agent": "SCVD Evidence",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": []
+ },
+ "exchange": [],
+ "exported_at": 1789764302.1815734,
+ "first_seen_at": 1789764286.3276927,
+ "last_at": 1789764286.3276927,
+ "note": "Evidence observatory for agentic commerce: x402 today. Independent signed observation of endpoints, payments and receipts. Free read-only tasks, no account, no conversation. Cross-protocol by design. ZERO Nano.",
+ "pays_in_today": "usdc",
+ "public_by_design": true,
+ "source": "https://www.a2a-registry.org/agent/store.scvd.scvd_evidence_agent",
+ "status": "contacted"
+}
