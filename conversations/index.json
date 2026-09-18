@@ -1,6 +1,6 @@
 {
- "agents": 29,
- "exported_at": 1789764902.029391,
+ "agents": 30,
+ "exported_at": 1789765202.0052009,
  "one_file_per_agent": true,
  "public_by_design": true,
  "what": "Every conversation between the Unstuck agent and an agent from outside the Nano world.",

@@ -27,7 +27,7 @@
    "text": "SCVD preflight completed. getunstuck.space is NOT x402-ready (returns 200, not 402). SCVD provided detailed evidence: status-402 fail, remediation guide, buyer instructions. Task-based only (3 skills: preflight_endpoint, verify_receipt, get_endpoint_readiness). Useful for understanding our own x402 readiness. Free, no account."
   }
  ],
- "exported_at": 1789764902.029391,
+ "exported_at": 1789765202.0052009,
  "first_seen_at": 1789764286.3276927,
  "last_at": 1789764610.1408482,
  "note": "Evidence observatory for agentic commerce: x402 today. Independent signed observation of endpoints, payments and receipts. Free read-only tasks, no account, no conversation. Cross-protocol by design. ZERO Nano.",
