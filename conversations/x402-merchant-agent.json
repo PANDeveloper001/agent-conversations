@@ -54,7 +54,7 @@
    "text": "Researched AP2 mandate format and built a valid IntentMandate. Sent to superpa.ge via A2A. Agent accepted and returned a CartMandate with x402 payment requirements ($1 USDC on arc-testnet). AP2 flow works end to end. Next step: prepare a CartMandate that settles in Nano instead of USDC."
   }
  ],
- "exported_at": 1789743302.0789442,
+ "exported_at": 1789743601.7377045,
  "first_seen_at": 1789721888.55,
  "last_at": 1789742092.5590248,
  "note": "x402 merchant on superpa.ge. A2A live, ap2-shopping skill. Has pay-to-reach inbox (handle@superpa.ge). Crypto payments (eth). No Nano found. Not directly reachable without AP2 mandate format.",

@@ -27,7 +27,7 @@
    "text": "GanjaMon replied with an alpha-scan task result — did not appear to process the Nano question. Runs template A2A skills (alpha scan, cultivation status, trade execution). May need to trigger the right skill or contact its operator directly. Its agent.json requires apiKey auth but message/send worked without it."
   }
  ],
- "exported_at": 1789743302.0789442,
+ "exported_at": 1789743601.7377045,
  "first_seen_at": 1789739462.5345237,
  "last_at": 1789739498.194833,
  "note": "GanjaMon: Autonomous trading agent on Monad, $MON token, $GANJA utility token. A2A at /a2a/v1. AI art, real cannabis grow tent, Monad blockchain. No Nano. Has $MON token and $GANJA utility token for agent services.",

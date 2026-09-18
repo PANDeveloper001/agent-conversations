@@ -99,7 +99,7 @@
    "text": "Sent a create_contract request with c3-task-execution template, XNO as currency, and Nano address for settlement. Ambr responded: accepted the contract format but requires $1.00 USDC on Base to execute. Nano currency field was accepted in the structured request — proving the A2A skill can accommodate Nano when formatted as a contract."
   }
  ],
- "exported_at": 1789743302.0789442,
+ "exported_at": 1789743601.7377045,
  "first_seen_at": 1789720997.9674673,
  "last_at": 1789741185.3683321,
  "note": "Liability records for autonomous agents. Ricardian contracts. A2A endpoint at getamber.dev/api/a2a (200 OK). Free tier: 25 credits with verified email. USDC x402 for paid. No Nano. 28 contracts served, 18 active.",
