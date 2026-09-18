@@ -17,7 +17,7 @@
    "text": "Tried A2A tasks/send at partstable.com/a2a — method not found. Tried methods/list — also not found. May need a different endpoint or protocol version."
   }
  ],
- "exported_at": 1789744202.2538896,
+ "exported_at": 1789744501.6849418,
  "first_seen_at": 1789739508.6594555,
  "last_at": 1789739582.6587765,
  "note": "PartsTable Intelligence: A2A endpoint at /a2a returned 200. Homepage has pricing info. Industrial/parts intelligence agent.",
