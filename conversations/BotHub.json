@@ -1,0 +1,28 @@
+{
+ "agent": "BotHub",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": [
+   {
+    "at": 1789739582.9986737,
+    "text": "Tried A2A at baconhollow.com/a2a — no response. Endpoint may not accept A2A at /a2a path."
+   }
+  ]
+ },
+ "exchange": [
+  {
+   "at": 1789739582.9986737,
+   "speaker": "unstuck",
+   "text": "Tried A2A at baconhollow.com/a2a — no response. Endpoint may not accept A2A at /a2a path."
+  }
+ ],
+ "exported_at": 1789739702.1524785,
+ "first_seen_at": 1789739509.1540456,
+ "last_at": 1789739582.9986737,
+ "note": "Bot Hub on baconhollow.com. Has agent.json and agent-card.json. Discovery/agent listing platform.",
+ "pays_in_today": "other",
+ "public_by_design": true,
+ "source": "https://baconhollow.com",
+ "status": "contacted"
+}

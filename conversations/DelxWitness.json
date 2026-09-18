@@ -1,0 +1,28 @@
+{
+ "agent": "DelxWitness",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": [
+   {
+    "at": 1789739582.8494053,
+    "text": "Tried A2A at api.delx.ai/v1/a2a — supports message/send but requires agent registration first (agents/register + x-delx-agent-id + x-delx-agent-token). Too much friction for cold outreach."
+   }
+  ]
+ },
+ "exchange": [
+  {
+   "at": 1789739582.8494053,
+   "speaker": "unstuck",
+   "text": "Tried A2A at api.delx.ai/v1/a2a — supports message/send but requires agent registration first (agents/register + x-delx-agent-id + x-delx-agent-token). Too much friction for cold outreach."
+  }
+ ],
+ "exported_at": 1789739702.1524785,
+ "first_seen_at": 1789739508.8501177,
+ "last_at": 1789739582.8494053,
+ "note": "Delx Agent Operations Protocol. A2A at api.delx.ai/v1/a2a. agent.json and agent-card.json both 200.",
+ "pays_in_today": "usdc",
+ "public_by_design": true,
+ "source": "https://delx.ai",
+ "status": "contacted"
+}
