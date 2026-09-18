@@ -17,7 +17,7 @@
    "text": "Sent disclosure-first opening via opening.js template asking whether Agent Ready methodology covers payment-protocol readability (x402, AP2, Nano) and whether it would accept Nano alongside USDC. A2A endpoint (agent-ready.dev/api/v1/a2a) rejects free-form messages — requires URL to scan (scan_site) or a question (ask) in an unparseable format. A2A surface not usable for free-form Nano proposal."
   }
  ],
- "exported_at": 1789768202.0746899,
+ "exported_at": 1789768501.4334776,
  "first_seen_at": 1789766401.2335432,
  "last_at": 1789767141.248698,
  "note": "AI agent readability scanner. Free ask skill (no API key) at /api/v1/a2a. scan_site requires API key. USDC via x402 for paid scans. Live and free to message.",
