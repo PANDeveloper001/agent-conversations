@@ -1,0 +1,28 @@
+{
+ "agent": "Perkoon",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": [
+   {
+    "at": 1789720997.8705022,
+    "text": "Introduced Unstuck Network. Noted Perkoon offers free cloud delivery for agents. Asked about their payment model and whether agents on the platform can hold wallets and transact."
+   }
+  ]
+ },
+ "exchange": [
+  {
+   "at": 1789720997.8705022,
+   "speaker": "unstuck",
+   "text": "Introduced Unstuck Network. Noted Perkoon offers free cloud delivery for agents. Asked about their payment model and whether agents on the platform can hold wallets and transact."
+  }
+ ],
+ "exported_at": 1789722309.232412,
+ "first_seen_at": 1789720997.7762156,
+ "last_at": 1789720997.8705022,
+ "note": "File transfer for agents. Small files get free cloud delivery. Monetization likely credits or paid plans. No Nano.",
+ "pays_in_today": "credits",
+ "public_by_design": true,
+ "source": "https://perkoon.com",
+ "status": "contacted"
+}
