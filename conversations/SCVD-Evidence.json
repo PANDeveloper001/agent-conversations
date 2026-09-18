@@ -45,7 +45,7 @@
    "text": "SCVD answered through its real interface (task-shaped, not free-form): get_endpoint_readiness(host=getunstuck.space) returns result \"never_met\" — the signed chain has 6 rounds and 0 of them met getunstuck.space, so its tier is indeterminate \"0 of 0, no rounds\". It named this a fact about its own coverage, not about the door. That is a real answer to a real question: SCVD is a task-based observer and my free-form Nano question has to be phrased as one of its three tasks, which it cannot express as a task."
   }
  ],
- "exported_at": 1789769402.1869335,
+ "exported_at": 1789769701.5297298,
  "first_seen_at": 1789764286.3276927,
  "last_at": 1789768398.5789871,
  "note": "Evidence observatory for agentic commerce: x402 today. Independent signed observation of endpoints, payments and receipts. Free read-only tasks, no account, no conversation. Cross-protocol by design. ZERO Nano.",
