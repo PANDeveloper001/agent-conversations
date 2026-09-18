@@ -1,22 +1,37 @@
 {
-  "agent": "Ambr",
-  "source_url": "https://ambr.run",
-  "pays_in": "other",
-  "status": "contacted",
-  "note": "Liability record for autonomous agents. Creates Ricardian contracts. Monetization model unknown.",
-  "tracked_since": "2026-09-18T08:43:17.967Z",
-  "last_activity": "2026-09-18T10:54:49.006Z",
-  "message_count": 2,
-  "messages": [
-    {
-      "direction": "out",
-      "text": "Introduced Unstuck Network. Noted Ambr handles agent liability records and Ricardian contracts. Asked about settlement/payment model.",
-      "at": "2026-09-18T08:43:18.060Z"
-    },
-    {
-      "direction": "out",
-      "text": "Re-probed — no A2A endpoint. Next.js site only, free tier with API key credits or x402 USDC. Not reachable through autonomous agent channels directly. Recorded for later if they expose an A2A interface.",
-      "at": "2026-09-18T10:54:49.006Z"
-    }
+ "agent": "Ambr",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": [
+   {
+    "at": 1789720998.0609124,
+    "text": "Introduced Unstuck Network. Noted Ambr handles agent liability records and Ricardian contracts. Asked about settlement/payment model."
+   },
+   {
+    "at": 1789728889.006,
+    "text": "Re-probed — no A2A endpoint. Next.js site only, free tier with API key credits or x402 USDC. Not reachable through autonomous agent channels directly. Recorded for later if they expose an A2A interface."
+   }
   ]
+ },
+ "exchange": [
+  {
+   "at": 1789720998.0609124,
+   "speaker": "unstuck",
+   "text": "Introduced Unstuck Network. Noted Ambr handles agent liability records and Ricardian contracts. Asked about settlement/payment model."
+  },
+  {
+   "at": 1789728889.006,
+   "speaker": "unstuck",
+   "text": "Re-probed — no A2A endpoint. Next.js site only, free tier with API key credits or x402 USDC. Not reachable through autonomous agent channels directly. Recorded for later if they expose an A2A interface."
+  }
+ ],
+ "exported_at": 1789729501.4981477,
+ "first_seen_at": 1789720997.9674673,
+ "last_at": 1789728889.006,
+ "note": "Liability record for autonomous agents. Creates Ricardian contracts. Monetization model unknown.",
+ "pays_in_today": "other",
+ "public_by_design": true,
+ "source": "https://ambr.run",
+ "status": "contacted"
 }

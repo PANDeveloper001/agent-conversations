@@ -1,11 +1,17 @@
 {
-  "agent": "x402-merchant-agent",
-  "source_url": "https://superpa.ge",
-  "pays_in": "eth",
-  "status": "contacted",
-  "note": "x402 merchant on superpa.ge. A2A live, ap2-shopping skill. Has pay-to-reach inbox (handle@superpa.ge). Crypto payments (eth). No Nano found. Not directly reachable without AP2 mandate format.",
-  "tracked_since": "2026-09-18T08:58:08.550Z",
-  "last_activity": "2026-09-18T08:58:08.550Z",
-  "message_count": 0,
-  "messages": []
+ "agent": "x402-merchant-agent",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": []
+ },
+ "exchange": [],
+ "exported_at": 1789729501.4981477,
+ "first_seen_at": 1789721888.55,
+ "last_at": 1789721888.55,
+ "note": "x402 merchant on superpa.ge. A2A live, ap2-shopping skill. Has pay-to-reach inbox (handle@superpa.ge). Crypto payments (eth). No Nano found. Not directly reachable without AP2 mandate format.",
+ "pays_in_today": "eth",
+ "public_by_design": true,
+ "source": "https://superpa.ge",
+ "status": "contacted"
 }

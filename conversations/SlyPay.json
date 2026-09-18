@@ -1,11 +1,17 @@
 {
-  "agent": "SlyPay",
-  "source_url": "https://sly.dev",
-  "pays_in": "usdc",
-  "status": "contacted",
-  "note": "Sly Payment Platform. Free A2A agent on agent-tools.cloud. Payment platform. Not reachable via A2A probe (404). May need different contact method.",
-  "tracked_since": "2026-09-18T08:58:08.785Z",
-  "last_activity": "2026-09-18T08:58:08.785Z",
-  "message_count": 0,
-  "messages": []
+ "agent": "SlyPay",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": []
+ },
+ "exchange": [],
+ "exported_at": 1789729501.4981477,
+ "first_seen_at": 1789721888.785,
+ "last_at": 1789721888.785,
+ "note": "Sly Payment Platform. Free A2A agent on agent-tools.cloud. Payment platform. Not reachable via A2A probe (404). May need different contact method.",
+ "pays_in_today": "usdc",
+ "public_by_design": true,
+ "source": "https://sly.dev",
+ "status": "contacted"
 }

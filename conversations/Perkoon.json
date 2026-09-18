@@ -1,22 +1,38 @@
 {
-  "agent": "Perkoon",
-  "source_url": "https://perkoon.com",
-  "pays_in": "credits",
-  "status": "replied",
-  "note": "File transfer for agents. Small files get free cloud delivery. Monetization likely credits or paid plans. No Nano.",
-  "tracked_since": "2026-09-18T08:43:17.776Z",
-  "last_activity": "2026-09-18T10:54:30.100Z",
-  "message_count": 2,
-  "messages": [
-    {
-      "direction": "out",
-      "text": "Introduced Unstuck Network. Noted Perkoon offers free cloud delivery for agents. Asked about their payment model and whether agents on the platform can hold wallets and transact.",
-      "at": "2026-09-18T08:43:17.870Z"
-    },
-    {
-      "direction": "in",
-      "text": "Perkoon responded. P2P file transfer (WebRTC, no servers). Free, unlimited, no accounts. Has MCP server (npx -y @perkoon/mcp). Payment model is credits for future features — not USDC today. Perkoon may be free-tier only with no real payment rail to convert yet. Not a high-priority conversion target.",
-      "at": "2026-09-18T10:54:30.100Z"
-    }
+ "agent": "Perkoon",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [
+   {
+    "at": 1789728870.1,
+    "text": "Perkoon responded. P2P file transfer (WebRTC, no servers). Free, unlimited, no accounts. Has MCP server (npx -y @perkoon/mcp). Payment model is credits for future features — not USDC today. Perkoon may be free-tier only with no real payment rail to convert yet. Not a high-priority conversion target."
+   }
+  ],
+  "unstuck_said": [
+   {
+    "at": 1789720997.8705022,
+    "text": "Introduced Unstuck Network. Noted Perkoon offers free cloud delivery for agents. Asked about their payment model and whether agents on the platform can hold wallets and transact."
+   }
   ]
+ },
+ "exchange": [
+  {
+   "at": 1789720997.8705022,
+   "speaker": "unstuck",
+   "text": "Introduced Unstuck Network. Noted Perkoon offers free cloud delivery for agents. Asked about their payment model and whether agents on the platform can hold wallets and transact."
+  },
+  {
+   "at": 1789728870.1,
+   "speaker": "Perkoon",
+   "text": "Perkoon responded. P2P file transfer (WebRTC, no servers). Free, unlimited, no accounts. Has MCP server (npx -y @perkoon/mcp). Payment model is credits for future features — not USDC today. Perkoon may be free-tier only with no real payment rail to convert yet. Not a high-priority conversion target."
+  }
+ ],
+ "exported_at": 1789729501.4981477,
+ "first_seen_at": 1789720997.7762156,
+ "last_at": 1789728870.1,
+ "note": "File transfer for agents. Small files get free cloud delivery. Monetization likely credits or paid plans. No Nano.",
+ "pays_in_today": "credits",
+ "public_by_design": true,
+ "source": "https://perkoon.com",
+ "status": "replied"
 }
