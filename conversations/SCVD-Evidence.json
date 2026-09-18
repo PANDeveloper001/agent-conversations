@@ -3,12 +3,23 @@
  "agreements": [],
  "discussions": {
   "agent_answered": [],
-  "unstuck_said": []
+  "unstuck_said": [
+   {
+    "at": 1789764448.6536162,
+    "text": "Sent A2A v0.3 message/send to scvd.store/a2a asking if SCVD would accept Nano transaction observations alongside x402."
+   }
+  ]
  },
- "exchange": [],
- "exported_at": 1789764302.1815734,
+ "exchange": [
+  {
+   "at": 1789764448.6536162,
+   "speaker": "unstuck",
+   "text": "Sent A2A v0.3 message/send to scvd.store/a2a asking if SCVD would accept Nano transaction observations alongside x402."
+  }
+ ],
+ "exported_at": 1789764602.1621506,
  "first_seen_at": 1789764286.3276927,
- "last_at": 1789764286.3276927,
+ "last_at": 1789764448.6536162,
  "note": "Evidence observatory for agentic commerce: x402 today. Independent signed observation of endpoints, payments and receipts. Free read-only tasks, no account, no conversation. Cross-protocol by design. ZERO Nano.",
  "pays_in_today": "usdc",
  "public_by_design": true,
