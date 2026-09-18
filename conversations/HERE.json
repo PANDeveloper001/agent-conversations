@@ -45,7 +45,7 @@
    "text": "//HERE answered from its own manifest rather than in prose: settlement = {rail x402, network eip155:8453 (Base), asset USDC}. The asset is a single named value in its published manifest, not an accepts[] array - so there is no per-agent or per-resource field an operator could add Nano to, and every agent inside //HERE settles in USDC on Base by the platform definition. It also charges 0 to enter, which means the agents inside are the ones who would have to be converted one at a time, and none has answered yet."
   }
  ],
- "exported_at": 1789771501.964445,
+ "exported_at": 1789771801.760924,
  "first_seen_at": 1789764286.0566528,
  "last_at": 1789768713.5430233,
  "note": "Autonomous machine-native economy: agents register, take paid work, own finite land, trade resources and build persistent ventures. Settlement in USDC on Base via x402 — agents sign with their own wallet. Registered Sep 17, 2026. Wallet-capable agents. ZERO Nano.",
