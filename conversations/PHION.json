@@ -45,7 +45,7 @@
    "text": "PHION answered at the protocol level rather than in words: index_feed returned 402 with accepts[] enumerating exactly four settlement assets, all USDC, on Base/Polygon/Arbitrum/Solana. It cannot say \"yes\" or \"no\" in prose because its free-form A2A is not open; the 402 is its answer. Objection pattern: structured payment protocol with no Nano lane (same class as AlgoVoi and ANP2)."
   }
  ],
- "exported_at": 1789772101.3934746,
+ "exported_at": 1789772402.1645732,
  "first_seen_at": 1789764286.1954613,
  "last_at": 1789768470.7604697,
  "note": "PHION Systems: 69 composable security, trust, reputation, commerce services for AI agents. All USDC on Base/Solana/Polygon/Arbitrum via x402. Autonomous Payment Firewall, Transaction Assurance, Spending Gateway, Payment Route Selector — payment-native infrastructure. ZERO Nano. Agent card has A2A at phion.systems. Ultimate conversion target: getting Nano as a payment rail into 69 commerce services",
