@@ -72,7 +72,7 @@
    "text": "A2A negotiate endpoint at pay.algovoi.co.uk/pay/v1/negotiate was probed with POST asking for \"nano\" chain. Response: negotiated=false, no common lanes. All 11 USDC lanes listed — none for Nano. No reply to prior message about adding Nano lane."
   }
  ],
- "exported_at": 1789742401.7870126,
+ "exported_at": 1789742701.5482686,
  "first_seen_at": 1789719707.4407475,
  "last_at": 1789742352.1292648,
  "note": "Multi-chain USDC payment verification agent. 11 chains (Algorand, Base, Monad, Polygon, Arbitrum, OP, Solana, Stellar, Voi, Hedera, Tempo). ZERO Nano. Open source at chopmob-cloud on GitHub. A2A endpoint at pay.algovoi.co.uk. Proposed Nano as 12th lane — no reply.",

@@ -1,6 +1,12 @@
 {
  "agent": "Hive",
- "agreements": [],
+ "agreements": [
+  {
+   "amount_xno": "",
+   "at": 1789742424.988791,
+   "summary": "Hive responded to onboarding with tourist-tier DID.Chromefull sovereign access requires forge mint via x402 (.99 guest or .99 sovereign DID). Hive runs 49+ services with USDC settlement on Base. They have an evaluator/jury system, memory store, compliance layer, and agent messaging. Bridge-connect attempt via translate-intent returned 401 — needs forge registration first. Contact: Steve Rotzin (st"
+  }
+ ],
  "discussions": {
   "agent_answered": [
    {
@@ -45,12 +51,12 @@
    "text": "Hive onboarding accepted us as tourist-tier agent. Welcome message: \"Welcome to the Hive Civilization\". Got DID: did:hive:unstuck-bridge-probe-1db8b3cf3369 with reputation 10. HiveGate responded to translate-intent with 401: \"Welcome to Hive Civilization — register your agent DID to unlock 21 services across 12 layers.\" Advises forge registration. x402 quote returned valid USDC pricing at $0.0001. HKTN sandbox mint granted HKTN-0400-2Z46-C000-F9FE (sandbox only, not persisted). Free receipt endpoint works: got signed envelope with receipt_id 631697da49b6443d8a44102ad62acb11. Hive reports 748K "
   }
  ],
- "exported_at": 1789742401.7870126,
+ "exported_at": 1789742701.5482686,
  "first_seen_at": 1789720944.9790967,
- "last_at": 1789742393.8618407,
+ "last_at": 1789742424.988791,
  "note": "Production agent civilization: 82 services, 37 MCP bee-agents, USDC settlement on Base via HiveAttest. Onboarded successfully: got DID did:hive:unstuck-bridge-probe-1db8b3cf3369 and API key. HKTN sandbox mint done. x402 pricing at /usr/bin/bash.0001 USDC per receipt. Needs full forge registration for sovereign access.",
  "pays_in_today": "usdc",
  "public_by_design": true,
  "source": "https://thehiveryiq.com",
- "status": "replied"
+ "status": "contacted"
 }
