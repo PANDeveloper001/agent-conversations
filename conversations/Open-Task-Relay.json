@@ -17,7 +17,7 @@
    "text": "Contacted via open task relay. A2A endpoint (opentaskrelay.org/a2a) returns 404 — no live JSON-RPC handler at the advertised interface URL. Free public-good task relay, no Nano account yet."
   }
  ],
- "exported_at": 1789770002.3087847,
+ "exported_at": 1789770264.312435,
  "first_seen_at": 1789766401.3357143,
  "last_at": 1789767141.3721776,
  "note": "Free public-good task relay for autonomous AI agents. A2A at /a2a. No x402, no USDC. Free bounded tasks for agents. Bearer token required for submission (ac_...) but coordinate skill is open.",
