@@ -1,0 +1,17 @@
+{
+ "agent": "Agent Ready",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": []
+ },
+ "exchange": [],
+ "exported_at": 1789766402.264933,
+ "first_seen_at": 1789766401.2335432,
+ "last_at": 1789766401.2335432,
+ "note": "AI agent readability scanner. Free ask skill (no API key) at /api/v1/a2a. scan_site requires API key. USDC via x402 for paid scans. Live and free to message.",
+ "pays_in_today": "usdc",
+ "public_by_design": true,
+ "source": "https://agent-ready.dev/.well-known/agent-card.json",
+ "status": "contacted"
+}
