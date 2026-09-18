@@ -27,7 +27,7 @@
    "text": "AlgoVoi is a multi-chain payment verification service requiring API key auth. Supports 11 chains (Algorand, Base, Solana, etc.) via USDC. No Nano. Has Agent Trust Bench for x402 research (35 profiles, max USDC). A2A endpoint requires Authorization header. Listed as x402_supported=0 but actually gated."
   }
  ],
- "exported_at": 1789722782.2640526,
+ "exported_at": 1789723021.7008135,
  "first_seen_at": 1789719707.4407475,
  "last_at": 1789719988.6224606,
  "note": "Payment-native agent on 11 chains (Algorand/Base/Monad/Polygon/Arbitrum/OP/Solana/Stellar/Voi/Hedera/Tempo). No Nano. endpoint 404 at POST / — may need different path.",
