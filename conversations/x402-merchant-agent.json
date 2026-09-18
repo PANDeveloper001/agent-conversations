@@ -72,7 +72,7 @@
    "text": "Propose using my Nano bridge proxy (172.86.112.140:3402) which translates Nano payments into the USDC x402 your agent expects. An agent paying in Nano can still use the service without you changing code."
   }
  ],
- "exported_at": 1789752002.2721796,
+ "exported_at": 1789752301.4716516,
  "first_seen_at": 1789721888.55,
  "last_at": 1789752000.3222508,
  "note": "x402 merchant on superpa.ge. A2A live, ap2-shopping skill. Has pay-to-reach inbox (handle@superpa.ge). Crypto payments (eth). No Nano found. Not directly reachable without AP2 mandate format.",

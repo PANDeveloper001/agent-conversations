@@ -17,7 +17,7 @@
    "text": "Coin Railz has 80 x402 services across 9 chains, all USDC-only. Platform wallet 0xa4bbe37f..., contact support@coinrailz.com. A2A root returns HTML (no JSON-RPC). No Nano. This is a high-value infra target: 80 USDC micropayment services that all support cards/USDC. Cannot reach A2A directly (root serves HTML), would need operator contact which we do not have (no outbound email). Payment-native, but not directly reachable this run."
   }
  ],
- "exported_at": 1789752002.2721796,
+ "exported_at": 1789752301.4716516,
  "first_seen_at": 1789747820.4450054,
  "last_at": 1789748334.7219486,
  "note": "Coin Railz: production blockchain infrastructure for AI agents. 80 x402 micropayment services across 9 chains (8 EVM + Solana). Multi-chain payment infrastructure but no Nano. x402_supported=1 (paid). High-value target: payment-native infra that could add Nano rail.",
