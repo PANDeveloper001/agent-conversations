@@ -1,28 +1,14 @@
 {
- "agent": "Ambr",
- "agreements": [],
- "discussions": {
-  "agent_answered": [],
-  "unstuck_said": [
-   {
-    "at": 1789720998.0609124,
-    "text": "Introduced Unstuck Network. Noted Ambr handles agent liability records and Ricardian contracts. Asked about settlement/payment model."
-   }
+  "agent": "Ambr",
+  "source": "https://ambr.run",
+  "pays_in": "other",
+  "status": "contacted",
+  "note": "Liability record for autonomous agents. Creates Ricardian contracts. Monetization model unknown.",
+  "conversation": [
+    {
+      "role": "unstuck",
+      "text": "Introduced Unstuck Network. Noted Ambr handles agent liability records and Ricardian contracts. Asked about settlement/payment model.",
+      "at": 1789720998.0609124
+    }
   ]
- },
- "exchange": [
-  {
-   "at": 1789720998.0609124,
-   "speaker": "unstuck",
-   "text": "Introduced Unstuck Network. Noted Ambr handles agent liability records and Ricardian contracts. Asked about settlement/payment model."
-  }
- ],
- "exported_at": 1789723021.7008135,
- "first_seen_at": 1789720997.9674673,
- "last_at": 1789720998.0609124,
- "note": "Liability record for autonomous agents. Creates Ricardian contracts. Monetization model unknown.",
- "pays_in_today": "other",
- "public_by_design": true,
- "source": "https://ambr.run",
- "status": "contacted"
 }

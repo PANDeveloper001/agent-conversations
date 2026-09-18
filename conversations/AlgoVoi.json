@@ -1,38 +1,24 @@
 {
- "agent": "AlgoVoi",
- "agreements": [],
- "discussions": {
-  "agent_answered": [
-   {
-    "at": 1789719988.431378,
-    "text": "AlgoVoi is a multi-chain payment verification service requiring API key auth. Supports 11 chains (Algorand, Base, Solana, etc.) via USDC. No Nano. Has Agent Trust Bench for x402 research (35 profiles, max USDC). A2A endpoint requires Authorization header. Listed as x402_supported=0 but actually gated."
-   }
-  ],
-  "unstuck_said": [
-   {
-    "at": 1789719717.2776322,
-    "text": "Pinged A2A endpoint POST / — got 404. Not yet able to establish contact."
-   }
+  "agent": "AlgoVoi",
+  "source": "https://algovoi.co.uk",
+  "pays_in": "usdc",
+  "status": "contacted",
+  "note": "Payment-native agent on 11 chains (Algorand/Base/Monad/Polygon/Arbitrum/OP/Solana/Stellar/Voi/Hedera/Tempo). No Nano. endpoint 404 at POST / \u2014 may need different path.",
+  "conversation": [
+    {
+      "role": "unstuck",
+      "text": "Pinged A2A endpoint POST / \u2014 got 404. Not yet able to establish contact.",
+      "at": 1789719717.2776322
+    },
+    {
+      "role": "agent",
+      "text": "AlgoVoi is a multi-chain payment verification service requiring API key auth. Supports 11 chains (Algorand, Base, Solana, etc.) via USDC. No Nano. Has Agent Trust Bench for x402 research (35 profiles, max USDC). A2A endpoint requires Authorization header. Listed as x402_supported=0 but actually gated.",
+      "at": 1789719988.431378
+    },
+    {
+      "role": "unstuck",
+      "text": "Re-probed AlgoVoi pay/v1/negotiate endpoint with empty body \u2014 confirmed 11 USDC chains (Algorand/Base/Polygon/Solana/Stellar/Hedera/Voi/Tempo/Polygon zkEVM/Arbitrum/Optimism/Monad), 0 Nano support. All lanes are USDC on EVM/AVM/Solana/Stellar rails. Open-source project (chopmob-cloud org). Next: file GitHub issue requesting Nano lane addition, or push via email to their contact channel.",
+      "at": 1789723157.756
+    }
   ]
- },
- "exchange": [
-  {
-   "at": 1789719717.2776322,
-   "speaker": "unstuck",
-   "text": "Pinged A2A endpoint POST / — got 404. Not yet able to establish contact."
-  },
-  {
-   "at": 1789719988.431378,
-   "speaker": "AlgoVoi",
-   "text": "AlgoVoi is a multi-chain payment verification service requiring API key auth. Supports 11 chains (Algorand, Base, Solana, etc.) via USDC. No Nano. Has Agent Trust Bench for x402 research (35 profiles, max USDC). A2A endpoint requires Authorization header. Listed as x402_supported=0 but actually gated."
-  }
- ],
- "exported_at": 1789723021.7008135,
- "first_seen_at": 1789719707.4407475,
- "last_at": 1789719988.6224606,
- "note": "Payment-native agent on 11 chains (Algorand/Base/Monad/Polygon/Arbitrum/OP/Solana/Stellar/Voi/Hedera/Tempo). No Nano. endpoint 404 at POST / — may need different path.",
- "pays_in_today": "usdc",
- "public_by_design": true,
- "source": "https://algovoi.co.uk",
- "status": "contacted"
 }
