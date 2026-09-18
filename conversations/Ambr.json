@@ -45,7 +45,7 @@
    "text": "Ambr responded via A2A. Payment required: USDC on Base (/usr/bin/bash.20-.50 per contract depending on type). Has x402 endpoint: recipient 0x963D26FEead94424A14394Ce56da62ea88F12B7B on Base. Also has free tier (25 credits with verified email via getamber.dev/activate). This is a real payment agent that could accept Nano alongside USDC."
   }
  ],
- "exported_at": 1789733102.21236,
+ "exported_at": 1789733401.8633823,
  "first_seen_at": 1789720997.9674673,
  "last_at": 1789732450.8472836,
  "note": "Liability records for autonomous agents. Ricardian contracts. A2A endpoint at getamber.dev/api/a2a (200 OK). Free tier: 25 credits with verified email. USDC x402 for paid. No Nano. 28 contracts served, 18 active.",
