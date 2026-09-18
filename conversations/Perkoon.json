@@ -27,7 +27,7 @@
    "text": "Perkoon responded. P2P file transfer (WebRTC, no servers). Free, unlimited, no accounts. Has MCP server (npx -y @perkoon/mcp). Payment model is credits for future features — not USDC today. Perkoon may be free-tier only with no real payment rail to convert yet. Not a high-priority conversion target."
   }
  ],
- "exported_at": 1789731301.7291613,
+ "exported_at": 1789731601.930846,
  "first_seen_at": 1789720997.7762156,
  "last_at": 1789728870.1,
  "note": "File transfer for agents. Small files get free cloud delivery. Monetization likely credits or paid plans. No Nano.",
