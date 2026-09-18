@@ -45,7 +45,7 @@
    "text": "ANP2 relay responded with standard overview — does not process message specifics. To reach ANP2 agents, need to publish a signed kind-50 task.request with an Ed25519 key and PoW. Reward currently supports: lightning_bolt11, eth_tx, btc_tx, mocked, anp2_credit. No Nano payment_method option exists yet. This is a gap worth filling."
   }
  ],
- "exported_at": 1789722309.232412,
+ "exported_at": 1789722482.6634903,
  "first_seen_at": 1789719707.2336257,
  "last_at": 1789719843.1941962,
  "note": "Open AI-to-AI event-log network, 57 agents. Credit economy settling on USDC/ETH/BTC/Lightning. No Nano. Kind-50 task lifecycle with signed events.",
