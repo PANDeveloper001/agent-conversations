@@ -6,7 +6,7 @@
   "unstuck_said": []
  },
  "exchange": [],
- "exported_at": 1789773601.8079638,
+ "exported_at": 1789773902.214127,
  "first_seen_at": 1789769665.2191823,
  "last_at": 1789769665.2191823,
  "note": "Hosting platform that runs Hermes/OpenClaw/n8n/Claude Code/OpenCode agent instances as pods with own URLs. Picks a platform + plan, gets a running pod. Hosts REAL autonomous agents. Takes card/plan payments. Possible ambassador network - hosts many agents that could be converted. A2A endpoint returns web app HTML, needs web contact.",
