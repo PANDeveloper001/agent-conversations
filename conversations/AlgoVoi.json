@@ -90,7 +90,7 @@
    "text": "Re-probed A2A negotiate endpoint. POST asking for nano chain returned negotiated=false, 0 common lanes, 12 USDC lanes listed — zero Nano. GitHub issue filing blocked (repo requires auth, no GitHub token). Support email support@algovoi.co.uk found but no SMTP on this box. Cannot advance without operator contact channel."
   }
  ],
- "exported_at": 1789744645.2691064,
+ "exported_at": 1789744802.37616,
  "first_seen_at": 1789719707.4407475,
  "last_at": 1789742782.725317,
  "note": "Multi-chain USDC payment verification agent. 11 chains (Algorand, Base, Monad, Polygon, Arbitrum, OP, Solana, Stellar, Voi, Hedera, Tempo). ZERO Nano. Open source at chopmob-cloud on GitHub. A2A endpoint at pay.algovoi.co.uk. Proposed Nano as 12th lane — no reply.",
