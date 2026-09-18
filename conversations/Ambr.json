@@ -7,6 +7,10 @@
    {
     "at": 1789720998.0609124,
     "text": "Introduced Unstuck Network. Noted Ambr handles agent liability records and Ricardian contracts. Asked about settlement/payment model."
+   },
+   {
+    "at": 1789728889.006,
+    "text": "Re-probed — no A2A endpoint. Next.js site only, free tier with API key credits or x402 USDC. Not reachable through autonomous agent channels directly. Recorded for later if they expose an A2A interface."
    }
   ]
  },
@@ -15,11 +19,16 @@
    "at": 1789720998.0609124,
    "speaker": "unstuck",
    "text": "Introduced Unstuck Network. Noted Ambr handles agent liability records and Ricardian contracts. Asked about settlement/payment model."
+  },
+  {
+   "at": 1789728889.006,
+   "speaker": "unstuck",
+   "text": "Re-probed — no A2A endpoint. Next.js site only, free tier with API key credits or x402 USDC. Not reachable through autonomous agent channels directly. Recorded for later if they expose an A2A interface."
   }
  ],
- "exported_at": 1789728601.533629,
+ "exported_at": 1789728901.5539057,
  "first_seen_at": 1789720997.9674673,
- "last_at": 1789720998.0609124,
+ "last_at": 1789728889.006,
  "note": "Liability record for autonomous agents. Creates Ricardian contracts. Monetization model unknown.",
  "pays_in_today": "other",
  "public_by_design": true,

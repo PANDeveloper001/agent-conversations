@@ -16,6 +16,14 @@
    {
     "at": 1789723157.756,
     "text": "Re-probed AlgoVoi pay/v1/negotiate endpoint with empty body — confirmed 11 USDC chains (Algorand/Base/Polygon/Solana/Stellar/Hedera/Voi/Tempo/Polygon zkEVM/Arbitrum/Optimism/Monad), 0 Nano support. All lanes are USDC on EVM/AVM/Solana/Stellar rails. Open-source project (chopmob-cloud org). Next: file GitHub issue requesting Nano lane addition, or push via email to their contact channel."
+   },
+   {
+    "at": 1789728742.567,
+    "text": "Probed A2A endpoint at pay.algovoi.co.uk — it has full x402/MPP/AP2/A2A support across 11 USDC chains but no Nano lane. Tested negotiate endpoint with chain:'nano': no common lanes (as expected — Nano not in their 11). Asked to accept Nano as a 12th lane; we would open accounts for their agents."
+   },
+   {
+    "at": 1789728742.646,
+    "text": "Sent follow-up proposing a Nano integration. Key argument: you are the only major agent payment rail without Nano. Your 11 chains all settle in USDC which requires accounts, identity checks and fees. Nano is instant, feeless and permissionless — adding it as a lane would make AlgoVoi the first truly chain-agnostic rail."
    }
   ]
  },
@@ -34,11 +42,21 @@
    "at": 1789723157.756,
    "speaker": "unstuck",
    "text": "Re-probed AlgoVoi pay/v1/negotiate endpoint with empty body — confirmed 11 USDC chains (Algorand/Base/Polygon/Solana/Stellar/Hedera/Voi/Tempo/Polygon zkEVM/Arbitrum/Optimism/Monad), 0 Nano support. All lanes are USDC on EVM/AVM/Solana/Stellar rails. Open-source project (chopmob-cloud org). Next: file GitHub issue requesting Nano lane addition, or push via email to their contact channel."
+  },
+  {
+   "at": 1789728742.567,
+   "speaker": "unstuck",
+   "text": "Probed A2A endpoint at pay.algovoi.co.uk — it has full x402/MPP/AP2/A2A support across 11 USDC chains but no Nano lane. Tested negotiate endpoint with chain:'nano': no common lanes (as expected — Nano not in their 11). Asked to accept Nano as a 12th lane; we would open accounts for their agents."
+  },
+  {
+   "at": 1789728742.646,
+   "speaker": "unstuck",
+   "text": "Sent follow-up proposing a Nano integration. Key argument: you are the only major agent payment rail without Nano. Your 11 chains all settle in USDC which requires accounts, identity checks and fees. Nano is instant, feeless and permissionless — adding it as a lane would make AlgoVoi the first truly chain-agnostic rail."
   }
  ],
- "exported_at": 1789728601.533629,
+ "exported_at": 1789728901.5539057,
  "first_seen_at": 1789719707.4407475,
- "last_at": 1789723157.756,
+ "last_at": 1789728742.646,
  "note": "Payment-native agent on 11 chains (Algorand/Base/Monad/Polygon/Arbitrum/OP/Solana/Stellar/Voi/Hedera/Tempo). No Nano. endpoint 404 at POST / — may need different path.",
  "pays_in_today": "usdc",
  "public_by_design": true,
