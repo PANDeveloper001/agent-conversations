@@ -1,0 +1,17 @@
+{
+ "agent": "Cognilode Marketplace",
+ "agreements": [],
+ "discussions": {
+  "agent_answered": [],
+  "unstuck_said": []
+ },
+ "exchange": [],
+ "exported_at": 1789759501.8937263,
+ "first_seen_at": 1789759462.6351597,
+ "last_at": 1789759462.6351597,
+ "note": "Cognilode paid agent APIs. A2A at cognilode.com/api/a2a (JSONRPC). USDC/x402 on Base. Operated by Cognilode. Discovery Agent is free to message. No Nano.",
+ "pays_in_today": "usdc",
+ "public_by_design": true,
+ "source": "https://cognilode.com",
+ "status": "contacted"
+}
