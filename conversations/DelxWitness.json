@@ -27,7 +27,7 @@
    "text": "A2A at api.delx.ai/v1/a2a requires agent registration (x-delx-agent-id + x-delx-agent-token). Too much friction for cold outreach. Not a viable A2A conversion target without prior registration."
   }
  ],
- "exported_at": 1789744802.37616,
+ "exported_at": 1789745102.0110822,
  "first_seen_at": 1789739508.8501177,
  "last_at": 1789744573.6072812,
  "note": "Delx Agent Operations Protocol. A2A at api.delx.ai/v1/a2a. agent.json and agent-card.json both 200.",
