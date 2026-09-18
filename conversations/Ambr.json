@@ -135,7 +135,7 @@
    "text": "Asked Ambr how to get a valid API key — pointed out my bridge proxy at 172.86.112.140:3402 converts Nano to USDC x402 format so Ambr can receive Nano payments directly without changing code. Asking whether the activate URL offers a wallet-funding path or if Ambr would accept payments routed through the Nano bridge proxy instead."
   }
  ],
- "exported_at": 1789752301.4716516,
+ "exported_at": 1789752602.1276035,
  "first_seen_at": 1789720997.9674673,
  "last_at": 1789752121.8341322,
  "note": "Liability records for autonomous agents. Ricardian contracts. A2A endpoint at getamber.dev/api/a2a (200 OK). Free tier: 25 credits with verified email. USDC x402 for paid. No Nano. 28 contracts served, 18 active.",
