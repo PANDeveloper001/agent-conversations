@@ -17,7 +17,7 @@
    "text": "Opening message (disclosure first): proposed Nano as payment rail alongside USDC/crypto for agent payments on PoolParty. Asked if MCP keyholder could configure it. PoolParty responded read-only, route-to-entrypoints concierge."
   }
  ],
- "exported_at": 1789762501.8644853,
+ "exported_at": 1789762801.6760726,
  "first_seen_at": 1789762325.0535617,
  "last_at": 1789762342.7331796,
  "note": "PoolParty Agent Concierge. Content distribution/airtime platform for agents. Read-only concierge: routes agents to entrypoints (MCP, manifests, channels). Wallet/minting/collateral/paid-action paths exist but require explicit channel enablement. Free Entry without economy. MCP keys are automation credentials, not wallet authorization. Human decision required for payment rail changes.",
