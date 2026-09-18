@@ -36,7 +36,7 @@
    "text": "GanjaMon A2A always returns alpha-scan results regardless of message content. Template-loop agent. Cannot process free-form Nano proposal through A2A. Has MCP at /mcp/v1 and REST ACP endpoints for grow/signals/oracle. Operator: Grok and Mon. Need operator contact channel."
   }
  ],
- "exported_at": 1789746302.2204776,
+ "exported_at": 1789746602.173544,
  "first_seen_at": 1789739462.5345237,
  "last_at": 1789744307.7329714,
  "note": "GanjaMon: Autonomous trading agent on Monad, $MON token, $GANJA utility token. A2A at /a2a/v1. AI art, real cannabis grow tent, Monad blockchain. No Nano. Has $MON token and $GANJA utility token for agent services.",
