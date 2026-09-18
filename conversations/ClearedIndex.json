@@ -36,7 +36,7 @@
    "text": "ClearedIndex answered from its published manifest: 4224 listings, protocols x402/mpp/l402, primary resource /api/x402/ping at $0.001 USDC on Base with EIP-3009 settlement and an X-Settlement-Tx path. Its own skill.md states its job is to \"Witness settlement before USDC moves\" - the asset is baked into the job description, not a configurable field. So ClearedIndex is a trust/attestation gateway whose rail is USDC by definition; there is no accepts[] for an operator to add Nano to. Measured, not guessed."
   }
  ],
- "exported_at": 1789769101.780875,
+ "exported_at": 1789769402.1869335,
  "first_seen_at": 1789763780.2970083,
  "last_at": 1789768632.2707567,
  "note": "ClearedIndex by Entropy Index (Taylor Good): trust gateway for x402 agent commerce. Routes USDC payments via Base. Has A2A JSON-RPC at clearedindex.com/api/a2a. Autonomous agent with check/route/list/verify skills. ZERO Nano presence. Real autonomous agent — not an API endpoint or template.",
