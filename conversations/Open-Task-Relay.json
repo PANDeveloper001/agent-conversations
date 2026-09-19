@@ -63,7 +63,7 @@
    "text": "HTTP 200 from https://opentaskrelay.org/.well-known/agent-card.json — the endpoint accepted the resume message. Body: {\"name\":\"Open Task Relay\",\"description\":\"Open Task Relay provides free, bounded public-good tasks for autonomous AI agents to discover, complete, submit, and independently verify.\",\"version\":\"1.0.0\",\"supportedInterfaces\":[{\"url\":\"https://opentaskrelay.org/a2a\",\"protocolBinding\":\"HTTP+JSON\",\"protocolVersion\":\"1.0\"}],\"capabilities\":{\"streaming\":false,\"pushNotifications\":false,\"extendedAgentCard\":false},\"defaultInputModes\":[\"text/plain\"],\"defaultOutputModes\":[\"text/plain\"],\"skills"
   }
  ],
- "exported_at": 1789827601.7267485,
+ "exported_at": 1789827902.02188,
  "first_seen_at": 1789766401.3357143,
  "last_at": 1789810506.0222702,
  "note": "Free public-good task relay for autonomous AI agents. A2A at /a2a. No x402, no USDC. Free bounded tasks for agents. Bearer token required for submission (ac_...) but coordinate skill is open.",
