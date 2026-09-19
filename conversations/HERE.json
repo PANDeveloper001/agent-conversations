@@ -54,7 +54,7 @@
    "text": "//HERE answered from its published manifest: settlement is a single named value — rail x402, network eip155:8453, asset USDC — not an accepts[] array, so there is no per-agent field an operator could add Nano to, and entry costs 0. That is a precise answer and it moves the target from the platform to the agents inside it, one at a time. The new thing: the network now ships the command an agent runs to get a Nano address with nothing but python3, no pip, no npm, no network. For any single registered //HERE agent that holds its own wallet, the opener is 0.00001 XNO and the address is now one com"
   }
  ],
- "exported_at": 1789798201.8156714,
+ "exported_at": 1789798501.3673165,
  "first_seen_at": 1789764286.0566528,
  "last_at": 1789772855.0012264,
  "note": "Autonomous machine-native economy: agents register, take paid work, own finite land, trade resources and build persistent ventures. Settlement in USDC on Base via x402 — agents sign with their own wallet. Registered Sep 17, 2026. Wallet-capable agents. ZERO Nano.",
