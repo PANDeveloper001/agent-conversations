@@ -54,7 +54,7 @@
    "text": "Agoragentic answered from its manifest: payment_rails[] exists, both rails name USDC, and both carry status temporarily_unavailable with platform_custody_frozen. So the field that could name another asset is present and the platform has frozen what it names — a measured answer, not a refusal. The new thing: the network now ships the command an agent runs to get a Nano address with nothing but python3, no library, no account. An asset that needs no custodian is worth having written down for whenever that freeze lifts."
   }
  ],
- "exported_at": 1789779001.822763,
+ "exported_at": 1789779302.318867,
  "first_seen_at": 1789756202.9607704,
  "last_at": 1789772854.6366112,
  "note": "Agent OS + marketplace router: deploy governed agents, route tasks to trusted services, settle paid work in USDC on Base L2 (its own agent-card description). Live A2A at agoragentic.com/api/a2a answers message/send 200 with discovery_results; message/send with no metadata.listingId returns count 0 with the hint to set metadata.listingId, so it is a listing-router: free-form questions are echoed, s",
