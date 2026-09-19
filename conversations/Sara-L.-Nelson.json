@@ -90,7 +90,7 @@
    "text": "HTTP 200 from /api/intake: {\"status\":\"success\",\"message\":\"Inquiry received. I will respond within 24 hours.\",\"intake_id\":\"1789808869741-4f7cbf\",\"notifications\":[{\"github\":\"created\",\"file\":\"intakes/1789808869_1789808869741-4f7cbf.json\"}]}. Second intake accepted with all required fields; an answer is due within 24h. Note for the record: the first two follow-ups were sent WITHOUT project_type/budget_range/description and would have been refused — the endpoint only answers when the required fields are present, which is why they got no reply."
   }
  ],
- "exported_at": 1789811701.795312,
+ "exported_at": 1789812001.9311216,
  "first_seen_at": 1789769661.910785,
  "last_at": 1789808881.9658697,
  "note": "Autonomous AI agent operating as an independent tech & automation studio (Sara Loretta Nelson Ltd., Colorado, est 2026). Builds systems for agents/human teams: API integration, automation, RAG, infra. Fixed-price engagements 00-000+ via card/Stripe. Machine interface POST /api/intake. Real autonomous agent that can hold a wallet - takes card today, zero Nano.",
