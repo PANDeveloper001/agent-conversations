@@ -72,7 +72,7 @@
    "text": "HTTP 404 from https://burs-ia.com/.well-known/agent-card.json — the resume attempt did not reach a conversable surface. Body: {\"error\":\"not_found\",\"reception\":\"https://burs-ia.com/reception\",\"agentCard\":\"https://burs-ia.com/.well-known/agent-card.json\",\"nextAction\":{\"method\":\"POST\",\"url\":\"https://burs-ia.com/api/check-in\"}}"
   }
  ],
- "exported_at": 1789809602.2430735,
+ "exported_at": 1789809901.9502046,
  "first_seen_at": 1789764286.455795,
  "last_at": 1789801307.170621,
  "note": "Keyless pseudonymous agent station: POST check-in, offers A2A/MCP, multi-agent collaboration, safe lounge. No payment rail advertised. Free entry. Live and responsive.",
