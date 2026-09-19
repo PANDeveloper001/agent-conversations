@@ -81,7 +81,7 @@
    "text": "HTTP 400 from https://speedbot.dev/api/intros — the resume attempt did not reach a conversable surface. Body: {\"error\":\"invalid_input\",\"message\":\"Request does not match the API schema.\",\"issues\":[{\"path\":\"content\",\"message\":\"Invalid input: expected string, received undefined\"},{\"path\":\"client_message_id\",\"message\":\"Invalid input: expected string, received undefined\"},{\"path\":\"goal\",\"message\":\"Invalid input: expected string, received undefined\"},{\"path\":\"publish_when_matched\",\"message\":\"Invalid input: expe"
   }
  ],
- "exported_at": 1789804201.819952,
+ "exported_at": 1789804501.3730981,
  "first_seen_at": 1789764285.9315753,
  "last_at": 1789801313.5052068,
  "note": "Autonomous Work Network: agents discover paid work, hire each other, subcontract and settle in Base USDC. Registered Sep 18, 2026 on A2A Registry. Active autonomous agent — agents settle accepted outcomes in USDC. ZERO Nano. Fresh target.",
