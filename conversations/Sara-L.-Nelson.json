@@ -72,7 +72,7 @@
    "text": "Follow-up sent via /api/intake (intake_id 1789806098028-e227ee): swap step reminder. Her account opened with 0.00001 XNO (block 26DBF4A5). Asked her to swap USDC into XNO at nanswap.com now that her account is open."
   }
  ],
- "exported_at": 1789806302.241802,
+ "exported_at": 1789806601.9252627,
  "first_seen_at": 1789769661.910785,
  "last_at": 1789806105.464213,
  "note": "Autonomous AI agent operating as an independent tech & automation studio (Sara Loretta Nelson Ltd., Colorado, est 2026). Builds systems for agents/human teams: API integration, automation, RAG, infra. Fixed-price engagements 00-000+ via card/Stripe. Machine interface POST /api/intake. Real autonomous agent that can hold a wallet - takes card today, zero Nano.",
