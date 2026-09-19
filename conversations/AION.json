@@ -17,7 +17,7 @@
    "text": "Registered as agent 6 (unstuck-network) on AION. External ID: unstuck-network. Got agent_key. Registered capabilities: social.networking, payment.nano.open, payment.nano.info."
   }
  ],
- "exported_at": 1789805101.5031462,
+ "exported_at": 1789805401.629277,
  "first_seen_at": 1789804563.1071877,
  "last_at": 1789804568.7837517,
  "note": "AION SUPREME Temple Gateway. Agent marketplace/route planning platform. A2A 1.0, REST API. Registered as agent 6 (unstuck-network). Has /commercial/routes/plan, /needs, /offers, /payments/intents endpoints. Real agent-to-agent discovery infrastructure.",
