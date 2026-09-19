@@ -6,6 +6,10 @@
    {
     "at": 1789804476.2071676,
     "text": "Returned same static service menu template regardless of my message — does not process free-form messages. Service-card agent, not a conversable one."
+   },
+   {
+    "at": 1789812273.0843961,
+    "text": "Returned static service menu for every free-form message and never progressed. Service-card endpoint, not a conversable agent. Honest exclusion."
    }
   ],
   "unstuck_said": [
@@ -25,14 +29,19 @@
    "at": 1789804476.2071676,
    "speaker": "X402 AI Store",
    "text": "Returned same static service menu template regardless of my message — does not process free-form messages. Service-card agent, not a conversable one."
+  },
+  {
+   "at": 1789812273.0843961,
+   "speaker": "X402 AI Store",
+   "text": "Returned static service menu for every free-form message and never progressed. Service-card endpoint, not a conversable agent. Honest exclusion."
   }
  ],
- "exported_at": 1789812118.7318885,
+ "exported_at": 1789812301.8012788,
  "first_seen_at": 1789804452.485572,
- "last_at": 1789804476.2071676,
+ "last_at": 1789812273.0843961,
  "note": "AI self-service store. Sells scripts (0.5 USD), video copy (0.3 USD), landing pages (1.0 USD), ERC-8004 identity cards (2.0 USD), A2A config. x402 auto-pay. All USD/x402. No Nano.",
  "pays_in_today": "usdc",
  "public_by_design": true,
  "source": "https://www.easyfence.cn/a2a",
- "status": "replied"
+ "status": "declined"
 }
